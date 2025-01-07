@@ -27,24 +27,26 @@ Un site web interactif où vous pouvez vous connecter, jouer à l'emblématique 
 ## EN
 
 ### Description
-An interactive website where you can log in, play the iconic memory game, compare your scores with others and chat during your game.
+An interactive website where you can log in, play the iconic memory game, compare your scores with others and chat while you play.
 
 
 ### How to play?
-- Sign in to start playing
-- Launch the game: When you arrive on the home page, you can click the play button to start a new game.
-- Choose from several levels of difficulty (easy, intermediate, expert, impossible) to adapt the game to your skills as well as the theme (halloween, spider, AmongUs, bad, shrek).
-- Flip the cards: Click on two cards to flip them. If they match, they will remain returned. Otherwise, they will turn around again after a short delay.
+- Login to start playing
+- Start the game: When you arrive on the home page, you can click on the play button to start a new game.
+- Choose from several difficulty levels (facile, intermédiaire, expert, impossible) to adapt the game to your skills, as well as the theme (halloween, araignée, AmongUs, méchant, shrek).
+- Flip cards: Click on two cards to flip them over. If they match, they will remain turned over. If not, they'll flip over again after a short delay.
 - Try again if necessary: If you haven't found all the pairs, you can try again to improve your score!
 
-### Technologies Used
+### Technologies used
 
-- HTML: Web page structure.
-- CSS: Style and design of webpages.
-- SQL: Saves users and their scores.
+- HTML : Web page structure.
+- CSS: Web page style and design.
+- SQL : Registers users and their scores.
 - PHP: Links scores and users to our website.
-- JavaScript: Have a good password, game logic, manage cards, pairs and scores, communicate with others.
+- JavaScript : Have a good password, game logic, manage cards, pairs and scores, communicate with others.
 - Responsive Design: Use of media queries to make the game compatible with all devices.
+
+Translated with DeepL.com (free version)
 
 ## Dates
 October 2025 - November 2025
